@@ -1,4 +1,4 @@
-module github.com/go-saas/lbs
+module github.com/jace996/lbs
 
 go 1.19
 

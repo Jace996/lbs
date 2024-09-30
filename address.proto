@@ -3,7 +3,7 @@ syntax = "proto3";
 package lbs;
 import "google/protobuf/struct.proto";
 
-option go_package = "github.com/go-saas/lbs;lbs";
+option go_package = "github.com/jace996/lbs;lbs";
 
 message Address{
 
